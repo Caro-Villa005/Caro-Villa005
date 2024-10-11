@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - 💻 Visit my [Portfolio](https://Caro-Villa005.github.io) for more details about me.
-- 📄 Know about my experiences [resume]([https://Caro-Villa005.github.io](https://github.com/Caro-Villa005/Caro-Villa005/blob/c3a0cecd90a06bdc0307f849d7519d6678308fc3/Hoja%20de%20Vida%20-%20Michelle%20Carolina%20Castrillon%20Villa.png))
+- 📄 Know about my experiences [Resume](https://github.com/Caro-Villa005/Caro-Villa005/blob/c3a0cecd90a06bdc0307f849d7519d6678308fc3/Hoja%20de%20Vida%20-%20Michelle%20Carolina%20Castrillon%20Villa.png)
 <!--End Intro-->
 
 <!--Profile Count Badge-->
