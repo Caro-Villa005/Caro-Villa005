@@ -1,5 +1,7 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Caro-Villa005/Caro-Villa005/blob/main/banner.png)
+<p align="center">
+	<img src="https://github.com/Caro-Villa005/Caro-Villa005/blob/279b7d31c16bc8998bf45bd80e2d7846ceb872a3/my%20profile.png"/>	
+</p>
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +9,17 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Michelle Carolina Castrillon Villa! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I´M Michelle Carolina Castrillon Villa! 
+*Software Analyst and Developer (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Node.js, REST API and Data Visualization. </p>
+<p align="left"> I am a trained and committed person, with effective teamwork skills and a responsible and organized attitude. I always approach my work with the best disposition. I feel fully qualified to face any task that comes my way, and my willingness to take on new challenges reflects my firm confidence in my abilities and knowledge. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://Caro-Villa005.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -70,45 +69,17 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Caro-Villa005/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Caro-Villa005&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Caro-Villa005">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Caro-Villa005&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
 <!--Contribution Graph-->
-## 🐍 A Snake Eating my Contributions Graph
-	
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <p align = "center">
-	<img src = "https://github.com/Caro-Villa005/Caro-Villa005/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
 
 ---
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 
 <!--Contact Section--> 
 
@@ -134,4 +105,4 @@
 
 ------
 
-Last Edited on: 11/10/2024
+Last Edited on: 11/10/2024]
