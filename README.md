@@ -18,7 +18,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
+- 🛠️ Completed a Software Programming Technical degree with strong fundamentals in development.
 - 💻 Visit my [Portfolio](https://Caro-Villa005.github.io) for more details about me.
 - 📄 Know about my experiences [Resume](https://github.com/Caro-Villa005/Caro-Villa005/blob/c3a0cecd90a06bdc0307f849d7519d6678308fc3/Hoja%20de%20Vida%20-%20Michelle%20Carolina%20Castrillon%20Villa.png)
 <!--End Intro-->
@@ -34,19 +34,14 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongo,git,vscode,docker,postman=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongo,git,vscode,docker,postman=10" />
+
 </p>
 <br />
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Caro-Villa005/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Caro-Villa005&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
+<!--Trophies Section-->  
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -91,12 +86,18 @@
 </a>
   
 <a href="mailto:ccastrillon614@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ccastrillon614@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/Caro-Villa005" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/carocastrillon005/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
+
+
 </div>
 
 <!--Footer--> 
